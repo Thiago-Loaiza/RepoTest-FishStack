@@ -1,0 +1,24 @@
+{
+  "name": "repotest-fishstack",
+  "version": "1.0.0",
+  "description": "Test por Proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thiago-Loaiza/RepoTest-FishStack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Thiago-Loaiza/RepoTest-FishStack/issues"
+  },
+  "homepage": "https://github.com/Thiago-Loaiza/RepoTest-FishStack#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
